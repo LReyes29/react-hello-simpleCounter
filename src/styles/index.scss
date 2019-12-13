@@ -9,5 +9,28 @@
     other sylesheets into your bunde as well, e.j:
     
     import 'relative/path/to/stylesheet.scss';
-
+ 
 */
+body {
+  margin: 150px auto; 
+  background: #000d1a ;    
+}
+
+h2 {
+    color:white;
+    text-align: left; 
+    font-size: 25px;
+}
+
+h1 {
+    background: white;
+    font-size: 70px;
+    width: 100px;
+    height: 100px;
+    border:2px solid;
+    text-align: center;    
+}
+
+i{
+    font-size: 100px;
+}
